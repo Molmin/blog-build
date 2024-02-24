@@ -1,0 +1,26 @@
+{
+  "name": "blog-build",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molmin/blog-build.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Milmon <milmon@qq.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Molmin/blog-build/issues"
+  },
+  "homepage": "https://github.com/Molmin/blog-build#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "typescript": "^5.3.3"
+  }
+}
